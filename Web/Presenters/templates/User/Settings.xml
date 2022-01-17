@@ -463,6 +463,14 @@
                         </td>
                     </tr>
                     <tr>
+                        <td width="120" valign="top" align="right">
+                            <input type="checkbox" name="theme_for_session" value="1">
+                        </td>
+                        <td>
+                            Применить стиль только для этого устройства
+                        </td>
+                    </tr>
+                    <tr>
                         <td>
                             
                         </td>
